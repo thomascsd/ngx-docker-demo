@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ngx-docker-demo"
+  "defaultProject": "ngx-docker-demo",
+  "cli": {
+    "analytics": false
+  }
 }
